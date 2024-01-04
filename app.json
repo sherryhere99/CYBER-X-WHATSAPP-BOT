@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;FE10WSaD#OPHMt69fPbcmhSk4pzlOqwoUWlNlmqL2FRBF1L0-ymI",
+            "description": "cyber-x@;;;JQsDnZaD#HzbMcJtl9gYUPSOmpysPYayQaQeSMZ3zQp9Folnkh_A",
             "required": true,
             "value": ""
         },
@@ -22,7 +22,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "haseebnaseem",
+            "description": "iammirzasherry-md",
             "required": true,
             "value": ""
         },
