@@ -17,19 +17,19 @@
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "aa1a5f3e-1309-49f0-b195-c09455412158",
+            "description": "064506bb-1823-4776-9122-db410e41d271",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "iammirzasherry-md",
+            "description": "iammirzasherry-u",
             "required": true,
             "value": ""
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "public"
+            "value": "private"
         }
     },
     "buildpacks": [
