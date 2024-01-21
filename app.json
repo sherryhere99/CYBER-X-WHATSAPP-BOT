@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;JQsDnZaD#HzbMcJtl9gYUPSOmpysPYayQaQeSMZ3zQp9Folnkh_A",
+            "description": "cyber-x@;;;sNlCQZZK#3FIn_b5BIA_nWxETSF34Y_jInwyik6lK17mmFu37pqI",
             "required": true,
             "value": ""
         },
@@ -22,14 +22,14 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "iammirzasherry-u",
+            "description": "iammr-x",
             "required": true,
             "value": ""
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
